@@ -1,1 +1,1 @@
-# urk24cs1281
+print("urk24cs1281")
